@@ -1,2 +1,3 @@
 theme: jekyll-theme-minimal
 logo: data/eos_logo.png
+site.name: Zero Knowledge Proof on EOS
