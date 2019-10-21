@@ -1,5 +1,3 @@
-## An introduction to Zero Knowledge Protocols
-
 Blockchain technology provides the necessary tools to decentralize information in a secure and unbreachable manner. The introduction of Bitcoin made it possible for thousands of nodes around the world to share and maintain the same information. However, in most Blockchains, the central idea is to keep this information public so that everyone can access it and verify it, without the need of any central entity, this is why we define public blockchains as trustless networks. 
 
 Many companies and private entities who want to use blockchain technology find themselves with an important interrogant: how can you keep information private and manage to retain the security and transparency of a public blockchain. 
